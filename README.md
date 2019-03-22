@@ -1,11 +1,12 @@
 # BuyMaotai
-用来抢茅台旗舰店1499的限量茅台
+To Buy maotai at Tmall, with a cheap price of 1499. 
+Furthermore, this project can buy any item in taobao within several seconds XD
 
-## 准备：
+
+## Preparation ：
 Chrome+ChromeDriver  http://chromedriver.chromium.org/downloads
 
-## 使用：
-有图形界面的，输入必要信息即可
-淘宝扫码登录
+## Using：
+There is a UI, so just put in the informations, such as the url and time to buy, then chick the start button, waiting for success.
 
-详见博客 ：https://ivenwang.com/2019/01/04/maotai/
+Detailed description ：https://ivenwang.com/2019/01/04/maotai/
